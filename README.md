@@ -10,7 +10,7 @@
 
 ### Certification
 1. Unilever Supply Chain Data Analyst Professional Certificate
-   * Supply Chain Management and Analytics [Certificate](C1.pdf) _May 2024_
+   * [Supply Chain Management and Analytics](/assets/img/C1.pdf) (_May 2024_)
 
 ### Project
 - Supply Chain Delay Dashboard
