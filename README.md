@@ -1,9 +1,9 @@
 # Data Analyst
 
 ### Education
-- M.Sc. (Biomedical Engineering) University of Saskatchewan, Saskatoon, Canada (_2022_)
-- M.Sc. (Computing and IT) University of New South Wales, Sydney, Australia (_2006_)
-- B.Sc. (Electrical and Electronic Engineering) Bangladesh University of Engineering and Technology, Dhaka, Bangladesh (_2002_)
+- **M.Sc. (Biomedical Engineering)** University of Saskatchewan, Saskatoon, Canada (_2022_)
+- **M.Sc. (Computing and IT)** University of New South Wales, Sydney, Australia (_2006_)
+- **B.Sc. (Electrical and Electronic Engineering)** Bangladesh University of Engineering and Technology, Dhaka, Bangladesh (_2002_)
 
 ### Skills
   - Proficient in data analysis and model building using Python, R, Microsoft Excel, SQL database querying, and creating informative data visualizations with Power BI and Tableau.
@@ -14,6 +14,7 @@
   - Enthusiastic to learn new skills.
 
 ### Work Experience
+Research Analyst
 -Business Analyst
 -Research Assistant
 -Lecturer
