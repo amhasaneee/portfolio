@@ -1,23 +1,28 @@
 # Data Analyst
 
 ### Education
-- **M.Sc. (Biomedical Engineering)** University of Saskatchewan, Saskatoon, Canada (_2022_)
-- **M.Sc. (Computing and IT)** University of New South Wales, Sydney, Australia (_2006_)
-- **B.Sc. (Electrical and Electronic Engineering)** Bangladesh University of Engineering and Technology, Dhaka, Bangladesh (_2002_)
+- **M.Sc. (Biomedical Engineering)** University of Saskatchewan, Canada (_2022_)
+- **M.Sc. (Computing and IT)** University of New South Wales,  Australia (_2006_)
+- **B.Sc. (Electrical and Electronic Engineering)** Bangladesh University of Engineering and Technology, Bangladesh (_2002_)
 
-### Skills
-  - Proficient in data analysis and model building using Python, R, Microsoft Excel, SQL database querying, and creating informative data visualizations with Power BI and Tableau.
-  - Gained expertise in programming skills through various online certifications and relevant projects.
-  - Multidisciplinary academic background in IT and Engineering.
-  - Excellent English proficiency in speaking, reading and writing.
-  - Extensive experience working in a team environment.
-  - Enthusiastic to learn new skills.
+### Technical Skills
+  - Python
+  - SQL
+  - Microsoft Excel
+  - Power BI
+  - Tableau
+
 
 ### Work Experience
-Research Analyst
--Business Analyst
--Research Assistant
--Lecturer
+**Research Analyst** University of Saskatchewan, Canada (_2016-2022_)
+- Performed research in the field of health informatics, medical imaging, and internet-of-things (IoT).
+- Conducted experiments and disseminated the findings through publications and presentations.
+**Business Analyst** Innovation Enterprise, Canada (_2018-2020_)
+- Performed market assessments to intellectual property (IP) developed by researchers .
+- Created custom reports and dashboards of different technical, legal and financial KPIs .
+**Lecturer** Najran University, KSA (_2008-2016_)
+- Instructed undergraduate courses and laboratories while overseeing projects.
+- Optimized the student advising system through the creation of a Microsoft Access form and dashboard.
 
 ### Certification
 1. Unilever Supply Chain Data Analyst Professional Certificate 
