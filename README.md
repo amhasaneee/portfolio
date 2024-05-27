@@ -18,10 +18,12 @@
 - Performed research in the field of health informatics, medical imaging, and internet-of-things (IoT).
 - Conducted experiments and disseminated the findings through publications and presentations.
 <br><br>
+
 **Business Analyst** Innovation Enterprise, Canada (_2018-2020_)
 - Performed market assessments to intellectual property (IP) developed by researchers .
 - Created custom reports and dashboards of different technical, legal and financial KPIs .
 <br><br>
+
 **Lecturer** Najran University, KSA (_2008-2016_)
 - Instructed undergraduate courses and laboratories while overseeing projects.
 - Optimized the student advising system through the creation of a Microsoft Access form and dashboard.
