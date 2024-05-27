@@ -1,7 +1,9 @@
 # Data Analyst
 
 ### Education
--MCompIT UNSW
+-M.Sc. (Biomedical Engineering) University of Saskatchewan, Saskatoon, Canada (_2022_)
+-M.Sc. (Computing and IT) University of New South Wales, Sydney, Australia (_2006_)
+-B.Sc. (Electrical and Electronic Engineering) Bangladesh University of Engineering and Technology, Dhaka, Bangladesh (_2002_)
 
 ### Work Experience
 -Business Analyst
