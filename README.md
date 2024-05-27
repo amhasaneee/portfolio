@@ -1,4 +1,5 @@
 # Data Analyst
+![Data Analyst](assets/img/data_analyst5.jpg)
 
 ### Technical Skills
   - Python
