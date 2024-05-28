@@ -33,5 +33,6 @@ Entry-level data analyst with a strong background in statistical analysis, data 
 
 ### Project
 - [Impact of Manufacturing Delay on Supply Chain](https://medium.com/@hasan.ahmedmonjurul/impact-of-manufacturing-delay-on-supply-chain-21d361d3a52e)
+- [Top 10 Programming Languages in 2019](https://medium.com/@hasan.ahmedmonjurul/top-10-programming-languages-in-2019-fbe63b059319)
 
 - 
