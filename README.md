@@ -12,7 +12,7 @@ Entry-level data analyst with a strong background in statistical analysis, data 
   - Tableau
 
 ### Education
--- **M.Sc. (Computing and IT)** UNSW, Australia (_2006_)
+**M.Sc. (Computing and IT)** UNSW, Australia (_2006_)
 
 ### Work Experience
 **Research Assistant** University of Saskatchewan, Canada (_2016-2022_)
