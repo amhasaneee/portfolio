@@ -5,11 +5,12 @@
 Entry-level data analyst with a strong background in statistical analysis, data visualization, and SQL. Passionate about uncovering insights from complex datasets to drive informed business decisions.
 
 ### Technical Skills
-  - Python
-  - SQL
-  - Microsoft Excel
-  - Power BI
-  - Tableau
+  - Python (Pandas, NumPy, SciPy, MatPlotLib)
+  - SQL (SQL Server, MySQL, PostgreSQL)
+  - Excel (VLookup, Pivot Tables)
+  - Tableau (Certification In Progress)
+  - Power BI (Certification PL-300 In Progress)
+  - R
 
 ### Education
 **M.Sc. (Computing and IT)** UNSW, Australia (_2006_)
@@ -33,6 +34,8 @@ Entry-level data analyst with a strong background in statistical analysis, data 
 
 ### Project
 - [Impact of Manufacturing Delay on Supply Chain](https://medium.com/@hasan.ahmedmonjurul/impact-of-manufacturing-delay-on-supply-chain-21d361d3a52e)
-- [Top 10 Programming Languages in 2019](https://medium.com/@hasan.ahmedmonjurul/top-10-programming-languages-in-2019-fbe63b059319)
+    - Transformed and filtered data by using vlookup and filtering functions in Excel.
+    - Created two dashboards with Tableau to provide summary-orientated and detailed visualization.
+    - Published the results in a blog and presented in Google slides.
 
 - 
