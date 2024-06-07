@@ -1,5 +1,9 @@
 title: Ahmed M. Hasan
 logo: /assets/img/headshot_circle.png
-[Education](/Education.md)
+description: If you are looking for a quick and fun introduction to GitHub, you've found it. This class will get you started using GitHub in less than an hour.
+template:
+  name: github-slideshow
+  repo: caption-this-template
+  description: 'A robot powered training repository :robot:'
 #show-download: True
 theme: jekyll-theme-minimal
