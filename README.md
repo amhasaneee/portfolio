@@ -1,6 +1,6 @@
 # Portfolio [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/award.svg" width="30" height="30"> CV](/assets/img/CV.pdf)
 ***
-[<img src="assets/img/salary.png"  alt="1" width = 800px height = 400px >](assets/img/Stackflow-survey.html)
+[<img src="assets/img/salary2.png"  alt="1" width = 800px height = 400px >](assets/img/Stackflow-survey.html)
 ### [Exploring Data Analyst Opportunities: A Market Analysis](assets/img/Stackflow-survey.html)
 - Utilized Rstudio IDE to transform and visualize Stack Overflow 2023 Annual Survey Data.
 - Performed a statistical analysis using t-test to compare the mean salaries between two regions.
