@@ -1,6 +1,5 @@
-# Portfolio
+# Portfolio [CV](/assets/img/CV.pdf)
 
-### Project
 <img src="assets/img/salary.png"  alt="1" width = 800px height = 400px >
 - [Exploring Data Analyst Opportunities: A Market Analysis](assets/img/Stackflow-survey.html)
     - Utilized rstudio IDE to transform and visualize Stack Overflow 2023 Annual Survey Data.
@@ -12,7 +11,8 @@
     - Transformed and filtered data by using vlookup and filtering functions in Excel.
     - Created [two dashboards](https://public.tableau.com/views/SupplyChainDelayDashboard/CustomerDashboard?%3Alanguage=en-GB&%3Asid=&%3Adisplay_count=n&%3Aorigin=viz_share_link) with Tableau to provide summary-orientated and detailed visualization.
     - Published the results in a [blog](https://medium.com/@hasan.ahmedmonjurul/impact-of-manufacturing-delay-on-supply-chain-21d361d3a52e) and presented in Google slides.
-
+___
+---
 
 ### Certification
 1. Microsoft Power BI Data Analyst Professional Certificate (_In Progress_)
