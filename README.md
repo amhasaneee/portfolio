@@ -28,7 +28,7 @@
    * [Using Data Analytics in Supply Chain](/assets/img/C1.pdf) (_May 2024_)
    * [Implementing Supply Chain Analytics](/assets/img/C3.pdf) (_May 2024_)
    * [Supply Chain Software Tools](/assets/img/C4.pdf)(_June 2024_)
- 4. [Data Analyst Nanodegree](/assets/img/C5_1.pdf)(_May 2020__
+ 4. [Data Analyst Nanodegree](/assets/img/C5_1.pdf)(_May 2020_)
  5. [Data Scientist Nanodegree](/assets/img/C4_1.pdf)(_Dec 2019_)    
 
 - 
