@@ -1,18 +1,12 @@
 # Portfolio
-<table>
-  <tr>
-    <td> <img src="lebanon.jpg"  alt="1" width = 360px height = 640px ></td>
 
-    <td><img src="assets/img/data_analyst5.jpg" alt="2" width = 360px height = 640px></td>
-   </tr> 
-   <tr>
-      <td><img src="assets/img/data_analyst5.jpg" alt="3" width = 360px height = 640px></td>
-
-      <td><img src="lebanon.jpg" align="right" alt="4" width = 360px height = 640px>
-  </td>
-  </tr>
-</table>
 ### Project
+![Salary Distribution](/assets/img/salary.PNG)
+- Exploring Data Analyst Opportunities: A Market Analysis
+    - Utilized rstudio IDE to transform and visualize Stack Overflow 2023 Annual Survey Data.
+    - Performed a statistical analysis using t-test to compare the mean salaries between two regions.
+    - Published results using R markdown to create a fully reproducible and readable workflow.
+      
 - [Impact of Manufacturing Delay on Supply Chain](https://medium.com/@hasan.ahmedmonjurul/impact-of-manufacturing-delay-on-supply-chain-21d361d3a52e)
     - Transformed and filtered data by using vlookup and filtering functions in Excel.
     - Created two dashboards with Tableau to provide summary-orientated and detailed visualization.
