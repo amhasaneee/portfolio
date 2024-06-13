@@ -1,13 +1,13 @@
 # Portfolio [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/award.svg" width="30" height="30"> CV](/assets/img/CV.pdf)
 ***
-<img src="assets/img/salary.png"  alt="1" width = 800px height = 400px >
+[<img src="assets/img/salary.png"  alt="1" width = 800px height = 400px >](assets/img/Stackflow-survey.html)
 ### [Exploring Data Analyst Opportunities: A Market Analysis](assets/img/Stackflow-survey.html)
 - Utilized Rstudio IDE to transform and visualize Stack Overflow 2023 Annual Survey Data.
 - Performed a statistical analysis using t-test to compare the mean salaries between two regions.
-- Published results using R markdown to create a fully reproducible and readable workflow.
+- Published [results](assets/img/Stackflow-survey.html) using R markdown to create a fully reproducible and readable workflow.
 
 ***
-<img src="assets/img/sales.png"  alt="1" width = 800px height = 400px >      
+[<img src="assets/img/sales.png"  alt="1" width = 800px height = 400px >](https://public.tableau.com/views/SupplyChainDelayDashboard/SalesDashboard?%3Alanguage=en-GB&%3Asid=&%3Adisplay_count=n&%3Aorigin=viz_share_link)      
 ### [Supply Chain Performance Metrics Dashboard](https://public.tableau.com/views/SupplyChainDelayDashboard/SalesDashboard?%3Alanguage=en-GB&%3Asid=&%3Adisplay_count=n&%3Aorigin=viz_share_link)
 - Transformed and filtered company sales data by using vlookup and filtering functions in Excel.
 - Created [two dashboards](https://public.tableau.com/views/SupplyChainDelayDashboard/CustomerDashboard?%3Alanguage=en-GB&%3Asid=&%3Adisplay_count=n&%3Aorigin=viz_share_link) with Tableau to provide summary-orientated and detailed visualization.
