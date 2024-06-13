@@ -2,7 +2,7 @@
 
 ### Project
 <img src="assets/img/salary.png"  alt="1" width = 800px height = 400px >
-- Exploring Data Analyst Opportunities: A Market Analysis
+- [Exploring Data Analyst Opportunities: A Market Analysis](assets/img/Stackflow-survey.html)
     - Utilized rstudio IDE to transform and visualize Stack Overflow 2023 Annual Survey Data.
     - Performed a statistical analysis using t-test to compare the mean salaries between two regions.
     - Published results using R markdown to create a fully reproducible and readable workflow.
