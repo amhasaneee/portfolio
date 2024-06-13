@@ -15,7 +15,14 @@
 
 
 ### Certification
-1. [Unilever Supply Chain Data Analyst Professional Certificate](/assets/img/P1.pdf)(_June 2024_) 
+1. Microsoft Power BI Data Analyst Professional Certificate (_In Progress_)
+   * [Preparing Data for Analysis with Microsoft Excel](/assets/img/C2_1.pdf) (_May 2024_)
+   * [Harnessing the Power of Data with Power BI](/assets/img/C2_2.pdf) (_June 2024_)
+2. Google Data Analytics Professional Certificate (_In Progress_)
+   * [Foundations: Data, Data, Everywhere](/assets/img/C3_1.pdf)(_Jan 2023_)
+   * [Ask Questions to Make Data-Driven Decisions](/assets/img/C3_2.pdf)(_Jan 2023_)
+   * [Data Analysis with R Programming](/assets/img/C3_7.pdf)(_June 2024_)
+4. [Unilever Supply Chain Data Analyst Professional Certificate](/assets/img/P1.pdf)(_June 2024_) 
    * [Supply Chain Management and Analytics](/assets/img/C1.pdf) (_May 2024_)
    * [Using Data Analytics in Supply Chain](/assets/img/C1.pdf) (_May 2024_)
    * [Implementing Supply Chain Analytics](/assets/img/C3.pdf) (_May 2024_)
