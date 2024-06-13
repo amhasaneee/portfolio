@@ -7,7 +7,7 @@
 - Published [results](assets/img/Stackflow-survey.html) using R markdown to create a fully reproducible and readable workflow.
 
 ***
-[<img src="assets/img/sales.png"  alt="1" width = 800px height = 400px >](https://public.tableau.com/views/SupplyChainDelayDashboard/SalesDashboard?%3Alanguage=en-GB&%3Asid=&%3Adisplay_count=n&%3Aorigin=viz_share_link)      
+[<img src="assets/img/sales2.png"  alt="1" width = 900px height = 300px >](https://public.tableau.com/views/SupplyChainDelayDashboard/SalesDashboard?%3Alanguage=en-GB&%3Asid=&%3Adisplay_count=n&%3Aorigin=viz_share_link)      
 ### [Supply Chain Performance Metrics Dashboard](https://public.tableau.com/views/SupplyChainDelayDashboard/SalesDashboard?%3Alanguage=en-GB&%3Asid=&%3Adisplay_count=n&%3Aorigin=viz_share_link)
 - Transformed and filtered company sales data by using vlookup and filtering functions in Excel.
 - Created [two dashboards](https://public.tableau.com/views/SupplyChainDelayDashboard/CustomerDashboard?%3Alanguage=en-GB&%3Asid=&%3Adisplay_count=n&%3Aorigin=viz_share_link) with Tableau to provide summary-orientated and detailed visualization.
