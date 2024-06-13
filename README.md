@@ -15,7 +15,7 @@
 
 ***
 
-### Certificate
+### Certificates
 1. Microsoft Power BI Data Analyst Professional Certificate (_In Progress_)
    * [Preparing Data for Analysis with Microsoft Excel](/assets/img/C2_1.pdf) (_May 2024_)
    * [Harnessing the Power of Data with Power BI](/assets/img/C2_2.pdf) (_June 2024_)
