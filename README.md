@@ -7,10 +7,10 @@
     - Performed a statistical analysis using t-test to compare the mean salaries between two regions.
     - Published results using R markdown to create a fully reproducible and readable workflow.
       
-- [Impact of Manufacturing Delay on Supply Chain](https://medium.com/@hasan.ahmedmonjurul/impact-of-manufacturing-delay-on-supply-chain-21d361d3a52e)
+- [Supply Chain Performance Metrics Dashboard]()
     - Transformed and filtered data by using vlookup and filtering functions in Excel.
     - Created two dashboards with Tableau to provide summary-orientated and detailed visualization.
-    - Published the results in a blog and presented in Google slides.
+    - Published the results in a [blog](https://medium.com/@hasan.ahmedmonjurul/impact-of-manufacturing-delay-on-supply-chain-21d361d3a52e) and presented in Google slides.
 
 
 ### Certification
