@@ -1,4 +1,4 @@
-# Portfolio [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="40" height="40">CV](/assets/img/CV.pdf)
+# Portfolio [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/arrow-right.svg" width="30" height="30">CV](/assets/img/CV.pdf)
 ***
 <img src="assets/img/salary.png"  alt="1" width = 800px height = 400px >
 ### [Exploring Data Analyst Opportunities: A Market Analysis](assets/img/Stackflow-survey.html)
