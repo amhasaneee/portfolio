@@ -1,7 +1,7 @@
 # Portfolio
 <table>
   <tr>
-    <td> <img src="/assets/img/data_analyst5.jpg"  alt="1" width = 360px height = 640px ></td>
+    <td> <img src="lebanon.jpg"  alt="1" width = 360px height = 640px ></td>
 
     <td><img src="/assets/img/data_analyst5.jpg" alt="2" width = 360px height = 640px></td>
    </tr> 
