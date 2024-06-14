@@ -8,9 +8,10 @@
 
 ***
 <img src="assets/img/LFS.png"  alt="1" width = 900px height = 300px >
-
-
-
+### [Labor Market Analysis Dashboard](#)
+- Created two Power BI dashboards to visualize market trends using data from labor force surveys.
+- Employed Power Query and DAX to generate new columns and measures for dashboard visuals.
+- Identified key factors contributing to unemployment and integrated R scripts within Power BI.
 
 ***
 [<img src="assets/img/sales2.png"  alt="1" width = 900px height = 300px >](https://public.tableau.com/views/SupplyChainDelayDashboard/SalesDashboard?%3Alanguage=en-GB&%3Asid=&%3Adisplay_count=n&%3Aorigin=viz_share_link)      
