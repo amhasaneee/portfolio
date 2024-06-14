@@ -8,7 +8,7 @@
 
 ***
 <img src="assets/img/LFS.png"  alt="1" width = 900px height = 300px >
-### [Labor Market Analysis Dashboard](/assets/img/LFS.pdf)
+### [Labour Market Analysis Dashboard](/assets/img/LFS.pdf)
 - Created two Power BI dashboards to visualize market trends using data from labor force surveys.
 - Employed Power Query and DAX to generate new columns and measures for dashboard visuals.
 - Identified key factors contributing to unemployment and integrated R scripts within Power BI.
