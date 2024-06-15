@@ -7,7 +7,7 @@
 - Published [results](assets/img/Stackflow-survey.html) using R markdown to create a fully reproducible and readable workflow.
 
 ***
-<img src="assets/img/LFS.png"  alt="1" width = 900px height = 300px >
+[<img src="assets/img/LFS.png"  alt="1" width = 900px height = 300px >](/assets/img/LFS.pdf)
 ### [Labour Market Analysis Dashboard](/assets/img/LFS.pdf)
 - Created two Power BI dashboards to visualize market trends using data from labour force surveys.
 - Employed Power Query and DAX to generate new columns and measures for dashboard visuals.
