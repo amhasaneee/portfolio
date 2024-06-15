@@ -18,7 +18,7 @@
 ### [Supply Chain Performance Metrics Dashboard](https://public.tableau.com/views/SupplyChainDelayDashboard/SalesDashboard?%3Alanguage=en-GB&%3Asid=&%3Adisplay_count=n&%3Aorigin=viz_share_link)
 - Transformed and filtered company sales data by using vlookup and filtering functions in Excel.
 - Created [two dashboards](https://public.tableau.com/views/SupplyChainDelayDashboard/CustomerDashboard?%3Alanguage=en-GB&%3Asid=&%3Adisplay_count=n&%3Aorigin=viz_share_link) with Tableau to provide summary-orientated and detailed visualization.
-- Published the results in a [blog](https://medium.com/@hasan.ahmedmonjurul/impact-of-manufacturing-delay-on-supply-chain-21d361d3a52e) and presented in Google slides.
+- Published the results in a [blog](https://medium.com/@hasan.ahmedmonjurul/impact-of-manufacturing-delay-on-supply-chain-21d361d3a52e) and presented in [Google slides](https://docs.google.com/presentation/d/1qDbkRi0fRQCddEX93SUskXDL-I_XaL3aitj6nPYKeKc/edit?usp=sharing).
 
 ***
 
