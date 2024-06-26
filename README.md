@@ -29,6 +29,7 @@
    * [Extract, Transform and Load Data in Power BI](/assets/img/C2_3.pdf) (_June 2024_)
    * [Data Modeling in Power BI](/assets/img/C2_4.pdf) (_June 2024_)
    * [Data Analysis and Visualization with Power BI](/assets/img/C2_5.pdf) (_June 2024_)
+   * [Creative Designing in Power BI](/assets/img/C2_6.pdf) (_June 2024_)
 2. Google Data Analytics Professional Certificate (_In Progress_)
    * [Foundations: Data, Data, Everywhere](/assets/img/C3_1.pdf)(_Jan 2023_)
    * [Ask Questions to Make Data-Driven Decisions](/assets/img/C3_2.pdf)(_Jan 2023_)
