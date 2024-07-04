@@ -12,7 +12,7 @@
 - Analyzed the distribution of flu vaccinations across various regions over time, visualizing trends.
 
 ***
-### Causes of Death Dashboard using MicroStrategy June 2024
+### Causes of Death Dashboard using MicroStrategy 
 - Highlighted the factors causing mortality, offering valuable perspectives on prevalent health concern.
 - Conducted a temporal analysis of mortality trends, discerning patterns and shifts in causes of death.
 - Mapped the mortality rates in different regions, revealing disparities related to health and wealth.
