@@ -1,5 +1,24 @@
 # Portfolio [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/award.svg" width="30" height="30"> CV](/assets/img/CV.pdf)
 ***
+### Emergency Room (ER) Dashboard using Power BI 
+- Created two Power BI dashboards to visualize the ER metrics by extracting Real World Fake Data.
+- In the first dashboard, analyzed the busiest time and day of the month in the ER using a heatmap.
+- In the second dashboard, evaluated equity within the ER services across age groups and ethnicities.
+
+***
+### Flu Shot Dashboard using SQL and Power BI 
+- Integrated multiple datasets to build a SQL extract to plug into Power BI for this Dashboard.
+- Conducted an assessment of flu shot availability across various age groups and ethnicities.
+- Analyzed the distribution of flu vaccinations across various regions over time, visualizing trends.
+
+***
+### Causes of Death Dashboard using MicroStrategy June 2024
+- Highlighted the factors causing mortality, offering valuable perspectives on prevalent health concern.
+- Conducted a temporal analysis of mortality trends, discerning patterns and shifts in causes of death.
+- Mapped the mortality rates in different regions, revealing disparities related to health and wealth.
+
+
+***
 [<img src="assets/img/salary2.png"  alt="1" width = 900px height = 300px >](assets/img/Stackflow-survey.html)
 ### [Exploring Data Analyst Opportunities: A Job Market Analysis](assets/img/Stackflow-survey.html)
 - Utilized Rstudio IDE to transform and visualize Stack Overflow 2023 Annual Survey Data.
