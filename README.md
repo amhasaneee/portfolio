@@ -13,7 +13,7 @@
 - Use AnyLogic to pinpoint inefficiencies and optimize logistics within the warehouse accurately
 
 *** 
-### Machine Utilization and Machine Maintenance Assessment of Coal Mine July 2024
+### Machine Utilization and Machine Maintenance Assessment of Coal Mine 
 - From the hourly data of the machines, calculated the min, mean and max utilization for the month.
 - Identified the hours where utilization has fallen below 90% or utilization is unknown.
 - Maintenance is required if the average machine utilization falls below 90% over an 8-hour period.
