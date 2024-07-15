@@ -1,5 +1,25 @@
 # Portfolio [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/award.svg" width="30" height="30"> CV](/assets/img/CV.pdf)
 ***
+[<img src="assets/img/sales2.png"  alt="1" width = 900px height = 300px >](https://public.tableau.com/views/SupplyChainDelayDashboard/SalesDashboard?%3Alanguage=en-GB&%3Asid=&%3Adisplay_count=n&%3Aorigin=viz_share_link)      
+### [Supply Chain Performance Metrics Dashboard](https://public.tableau.com/views/SupplyChainDelayDashboard/SalesDashboard?%3Alanguage=en-GB&%3Asid=&%3Adisplay_count=n&%3Aorigin=viz_share_link)
+- Transformed and filtered company sales data by using vlookup and filtering functions in Excel.
+- Created [two dashboards](https://public.tableau.com/views/SupplyChainDelayDashboard/CustomerDashboard?%3Alanguage=en-GB&%3Asid=&%3Adisplay_count=n&%3Aorigin=viz_share_link) with Tableau to provide summary-orientated and detailed visualization.
+- Published the results in a [blog](https://medium.com/@hasan.ahmedmonjurul/impact-of-manufacturing-delay-on-supply-chain-21d361d3a52e) and presented in [Google slides](https://docs.google.com/presentation/d/1qDbkRi0fRQCddEX93SUskXDL-I_XaL3aitj6nPYKeKc/edit?usp=sharing).
+
+***
+### Operational Warehousing Routine Simulation using AnyLogic 
+- Develop a simple simulation model to test different storing and removing processes in a warehouse.
+- Focus on typical operational routines such as order picking, inventory management, etc.
+- Use AnyLogic to pinpoint inefficiencies and optimize logistics within the warehouse accurately
+
+*** 
+### Machine Utilization and Machine Maintenance Assessment of Coal Mine July 2024
+- From the hourly data of the machines, calculated the min, mean and max utilization for the month.
+- Identified the hours where utilization has fallen below 90% or utilization is unknown.
+- Maintenance is required if the average machine utilization falls below 90% over an 8-hour period.
+
+
+***
 ### Emergency Room (ER) Dashboard using Power BI 
 - Created two Power BI dashboards to visualize the ER metrics by extracting Real World Fake Data.
 - In the first dashboard, analyzed the busiest time and day of the month in the ER using a heatmap.
@@ -31,13 +51,6 @@
 - Created two Power BI dashboards to visualize market trends using data from labour force surveys.
 - Employed Power Query and DAX to generate new columns and measures for dashboard visuals.
 - Identified key factors contributing to unemployment and integrated R scripts within Power BI.
-
-***
-[<img src="assets/img/sales2.png"  alt="1" width = 900px height = 300px >](https://public.tableau.com/views/SupplyChainDelayDashboard/SalesDashboard?%3Alanguage=en-GB&%3Asid=&%3Adisplay_count=n&%3Aorigin=viz_share_link)      
-### [Supply Chain Performance Metrics Dashboard](https://public.tableau.com/views/SupplyChainDelayDashboard/SalesDashboard?%3Alanguage=en-GB&%3Asid=&%3Adisplay_count=n&%3Aorigin=viz_share_link)
-- Transformed and filtered company sales data by using vlookup and filtering functions in Excel.
-- Created [two dashboards](https://public.tableau.com/views/SupplyChainDelayDashboard/CustomerDashboard?%3Alanguage=en-GB&%3Asid=&%3Adisplay_count=n&%3Aorigin=viz_share_link) with Tableau to provide summary-orientated and detailed visualization.
-- Published the results in a [blog](https://medium.com/@hasan.ahmedmonjurul/impact-of-manufacturing-delay-on-supply-chain-21d361d3a52e) and presented in [Google slides](https://docs.google.com/presentation/d/1qDbkRi0fRQCddEX93SUskXDL-I_XaL3aitj6nPYKeKc/edit?usp=sharing).
 
 ***
 
